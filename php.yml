@@ -1,0 +1,6 @@
+set:
+  arg_separator.output:        |
+    &amp;
+
+warn:
+  session.auto_start:          off
